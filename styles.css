@@ -725,25 +725,31 @@ footer {
   }
 
   .div1 {
-    grid-column: span 2 / span 2;
+    background: url('/images/zoom.jpeg') center / cover no-repeat;
   }
+
   .div2 {
-    grid-column: span 2 / span 2;
+    background: url('/images/zoom1.jpeg') center / cover no-repeat;
   }
+
   .div3 {
-    grid-column: 1 / span 2;
+    background: url('/images/zoom.jpeg') center / cover no-repeat;
   }
+
   .div4 {
-    grid-column: 1 / span 1;
+    background: url('/images/zoom1.jpeg') center / cover no-repeat;
   }
+
   .div5 {
-    grid-column: 2 / span 1;
+    background: url('/images/zoom.jpeg') center / cover no-repeat;
   }
+
   .div6 {
-    grid-column: 1 / span 1;
+    background: url('/images/zoom1.jpeg') center / cover no-repeat;
   }
+
   .div7 {
-    grid-column: 2 / span 1;
+    background: url('/images/zoom.jpeg') center / cover no-repeat;
   }
   /* --- END RESPONSIF GALLERY SECTION MOBILE --- */
 }
